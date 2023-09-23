@@ -4,6 +4,7 @@ type vendor_proc_tri_state_key, fs_type, proc_type;
 # Camera
 type vendor_persist_camera_file, file_type;
 type vendor_proc_flash, fs_type, proc_type;
+type public_adsprpcd_file, file_type;
 
 # Charging
 type vendor_proc_wireless, fs_type, proc_type;
@@ -31,3 +32,5 @@ type vendor_proc_ultrasound, fs_type, proc_type;
 
 # Versioning
 type vendor_proc_oplus_version, fs_type, proc_type;
+
+
